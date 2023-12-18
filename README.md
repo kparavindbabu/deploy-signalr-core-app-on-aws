@@ -1,5 +1,7 @@
 # How to deploy a SignalR Core application on AWS
 
+## Based on this blog post https://www.mytechramblings.com/posts/deploying-a-signalr-core-app-on-aws/
+
 This repository contains an example about how you can deploy a SignalR Core App on AWS.
 
 The source code for the SignalR Core app is from here:
